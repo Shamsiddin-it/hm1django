@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+}
+.title{
+    background-color: #020A18;
+    display: flex;
+    padding-left: 10%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.arti{
+    display: flex;
+    align-items: center;
+    color: #3A68B8;
+    gap: 3%;
+    width: 30%;     
+}
+.names{
+    color: white;
+    display: flex;
+    gap: 10%;
+    align-items: center;
+    width: 50%;
+}
+.sign{
+    background-color: #3A68B8;
+    padding: 15px 30px;
+    border-radius: 5px;
+    width: 112px;
+    height: 52px;
+    color: white;
+    align-items: center;
+}
+.start1{
+    display: flex;
+    background-color: #020A18;
+    padding-right: 10%;
+}
+.text1{
+    flex-wrap: wrap;
+    width: 60%;
+    align-content: center;
+    padding-left: 10%;
+}
+.sign1{
+    width: 160px;
+    height: 42px;
+    background-color: #3A68B8;
+    padding: 15px 30px;
+    border-radius: 5px;
+    color: white;
+    align-items: center;
+    font-size: 15px;
+}
+.sign2{
+    width: 160px;
+    height: 42px;
+    background-color: #3A68B8;
+    padding: 15px 30px;
+    border-radius: 5px;
+    color: white;
+    align-items: center;
+    font-size: 15px;    
+}
+.logos{
+    display: flex;
+    gap: 3%;
+    background-color: #020A18;
+    justify-content: space-around;
+    padding-left: 10%;
+    padding-top: 30px;
+    padding-right: 10%;
+    padding-bottom: 8%;
+    
+}
+.start2{
+    display: flex;
+    background-color: black;
+    gap: 0%;
+    padding-bottom: 10%;
+    padding-left: 5%;
+}
+.text2{
+    flex-wrap: wrap;
+    width: 60%;
+    align-content: center;
+    padding-right: 10%;
+}
+.start3{
+    display: flex;
+    gap: 1%;
+    background-color: #020A18;
+    align-items: baseline;
+    align-items: stretch;
+}
+.card{
+    background-color: #2C3647;
+    width: 362px;
+    height: 329px;
+    align-content: center;
+    border-radius: 10px;
+    flex-wrap: wrap;
+    
+}
+.start4{
+    background-color: black;
+    display: flex;
+    padding: 10%;
+}
+.oxir{
+    display: flex;
+    background-color: #020A18;
+    padding-left: 10%;
+    justify-content: space-evenly;
+}
+.oxir1{
+    align-content: end;
+    display: flex;
+    flex-direction: column;
+    width: 18%;
+    line-height: 50px;
+    color: white;
+}
+.oxir2{
+    color: white;
+    width: 20%;
+    
+}
