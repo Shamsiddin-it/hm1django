@@ -1,0 +1,39 @@
+#in1{
+    padding: 10px;
+    margin-bottom: 10px;
+    padding-right: 40px;
+}
+#in3{
+    padding: 10px;
+    margin-bottom: 10px;
+    padding-right: 40px;
+}
+#in5{
+    padding: 10px;
+    margin-bottom: 10px;
+    padding-right: 40px;
+}
+label{
+    font-size: 20px;
+}
+.main{
+    display: flex;
+}
+.lab{
+    margin-right: 50px;
+}
+button{
+    margin-top: 20px;
+    padding: 10px 220px;
+    background-color: blueviolet;
+    color: white;
+    font-size: 15px;
+}
+fieldset{
+    width: 250px;
+    margin: 100px 550px;
+    background-color: white;
+}
+body{
+    background-color: blueviolet;
+}
